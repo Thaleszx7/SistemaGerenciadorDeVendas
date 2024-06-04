@@ -1,5 +1,5 @@
 # SistemaGerenciadorDeVendas
-Um Sistema de Gerenciamento de Vendas
+Um Sistema de Gerenciamento de Vendas feito utilizando Java & Java Swing como design.
 
 Oque fazer para utilizar ?
 
